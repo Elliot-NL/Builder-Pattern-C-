@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace Testing_File___Builder_Pattern
 {
-    class ConcreteBuilder
-    {
 
-        //Concrete classes that will create the complex product
-        //This will keep track of what product it has created 
-
-    }
+    //Concrete classes that will create the complex product
+    //This will keep track of what product it has created 
 
     class AndroidPhoneBuilder : IPhoneBuilder
     {
